@@ -1,0 +1,1707 @@
+
+
+		<div class="juzi-header-box">
+		<div class="login-box hidden-for-mobile">
+							<div class="inner-box">
+					欢迎来到IT桔子！
+					<a href="https://www.itjuzi.com/user/login" class="marl">请登录</a>
+					<a href="https://www.itjuzi.com/user/register_email?redirect=&amp;flag=&amp;radar_coupon=" class="marl">免费注册</a>
+					<a href="https://jinshuju.net/f/IueHny" class="pull-right marl">新版建议</a>
+					<a href="https://www.itjuzi.com/faq" class="pull-right marl">常见问题</a>
+				</div>
+					</div>
+		<div class="search-box">
+			<div class="inner-box">
+				<a href="https://www.itjuzi.com/" class="logo-box">
+					<img src="https://cdn.itjuzi.com/assets/front//images/img/logo-with-slogan.png" alt="图片加载失败">
+				</a>
+				<div class="search-input-box usersearch usersearch-box" data-url="https://www.itjuzi.com/search/search_suggest">
+					<form class="form-inline" action="https://www.itjuzi.com/search">
+						<div class="form-group">
+							<div class="input-group">
+								<div class="input-group-addon for-icon-search">
+									<i class="iconfont icon-search"></i>
+								</div>
+								<input type="text" autocomplete="off" class="form-control" name="word" placeholder="行业、公司、人物、产品、投资机构" value="">
+								<span class="input-group-addon header-search-btn">搜 索</span>
+							</div>
+						</div>
+					</form>
+				</div>
+				<div class="app-qr-code-box hidden-for-mobile">
+					<img src="https://www.itjuzi.com/assets/front/app/pic/qr.png" alt="图片加载失败">
+					<span>iPhone&amp;Android</span>
+				</div>
+			</div>
+		</div>
+
+	</div>
+					<!-- start 面包屑导航 -->
+			<div class="breadcrumb-box">
+				<ul class="breadcrumb">
+					<li>
+						<a href="https://www.itjuzi.com/">首页</a> <span class="divider">&gt;</span>
+					</li>
+										<li>
+						<a>数据</a> <span class="divider">&gt;</span>
+					</li>
+										<li>
+																				<a href="http://radar.itjuzi.com/company" class="active">公司/项目</a>
+																																																																																				
+							<span class="divider">&gt;</span>
+											</li>
+																															
+					
+																																										<li class="active">安即猩</li>
+				</ul>
+				<div class="riverline"></div>
+			</div>
+			
+
+
+<!-- end 面包屑导航 -->
+<!--end header-->
+		<div class="thewrap  ">
+							<!-- NEW -->
+
+
+				<!--页面顶部通栏广告位-->
+			    <div class="boxed mobile-none bill-box">
+																			    </div>
+			    <!--end 页面顶部通栏广告位-->
+			 
+			<style>
+	.upload-disable{
+		background-color: #cecece !important;
+		color: #fff !important;
+	}
+	.brand-info {
+		margin-bottom: 35px;
+	p{
+		font-size: 14px;
+		font-family: "Microsoft Yahei","微软雅黑";
+		color:#666;
+		margin-top: 10px;
+
+	}
+	iframe[name=timeline] {
+		position: fixed;
+		top: 100%;
+		bottom: 0;
+		border: none;
+		overflow: visible;
+	}
+</style>
+<script type="text/javascript">
+ window.feedbackMap = {
+        url: {
+            title: '公司网址',
+            keywords: '添加官网,官网不对,其他',
+        },
+        tag: {
+            title: '公司标签',
+            keywords: 'Tag不对,添加Tag'
+        },
+        product: {
+            title: '公司产品',
+            keywords: ''
+        },
+        financing: {
+            title: '融资',
+            keywords: '时间不对,轮次不对,金额不对,投资方不对'
+        },
+        financing_add: {
+            title: '融资',
+            keywords: '增加融资信息'
+        },
+        out_invest: {
+            title: '对外投资',
+            keywords: '时间不对,轮次不对,金额不对,投资方不对'
+        },
+        out_invest_add: {
+            title: '对外投资',
+            keywords: '增加对外投资信息'
+        },
+        team: {
+            title: '公司成员',
+            keywords: '添加成员,成员信息不对,其他'
+        },
+        news: {
+            title: '公司新闻',
+            keywords: ''
+        },
+        autonews: {
+            title: '公司新闻',
+            keywords: ''
+        },
+        compare: {
+            title: '公司竞品',
+            keywords: ''
+        },
+        product_add: {
+            title: '产品信息',
+            keywords: '添加产品信息'
+        }
+    };
+</script>
+<div class="boxed">
+	<input type="hidden" id="page_type" value="company">
+	 <!-- 公司ID -->
+	 <input type="hidden" id="item_id" value="32783643" data-id="32783643">
+	 <!-- 反馈 ／ 取消反馈 url-->
+	 <input type="hidden" id="feedback_url" data-add-url="/company/accept_user_feedback" data-cancel-url="/company/accept_user_cancel_feedback">
+	<div class="sec" id="home">
+		<div class="infoheadrow-v2 ugc-block-item
+			">
+			<div class="on-edit-hide">
+				<div class="rowhead feedback-btn-parent">
+											<div class="pic">
+							<img src="https://cdn.itjuzi.com/images/db9927332022e066ed6d037a676e2588.png?imageView2/0/w/100/q/100">
+						</div>
+										<div class="picinfo">
+						<div class="line-title">
+							<span class="title">
+								<h1 class="seo-important-title" data-name="安即猩" data-fullname="成都首套科技有限公司">
+									安即猩																		<span class="t-small c-green">
+																					(种子轮)
+																			</span>
+								</h1>
+							</span>
+														<!-- <span class="sechovershow jzbtn c-lined small marl10 act-ugc act-ugc-edit act-ugc-edit-base1" style="margin-top:-5px;"><i class="fa fa-pencil"></i> 编辑</span> -->
+						</div>
+						<div class="info-line">
+							<h2 class="seo-slogan">生活急需品新零售平台</h2>
+						</div>
+						<div class="info-line">
+							<span class="scope c-gray-aset">成立于2017年12月，目前种子轮，总融资额约80万人民币</span>
+						</div>
+						<style>
+							.link-line .linkmore.weixin>a {
+								background-color: transparent
+							}
+
+							.link-line .linkmore.weixin>a:hover {
+								color: #7ed321
+							}
+
+							.link-line .linkmore.weixin .subblock li>a {
+								border-bottom: none
+							}
+
+							.listed-info li {
+								width: 100%;
+								float: none
+							}
+
+							.listed-info li>span {
+								padding-left: 70px;
+								position: relative;
+								display: inline-block
+							}
+
+							.listed-info li>span b {
+								position: absolute;
+								top: 0;
+								left: 0
+							}
+
+							.listed-info li a {
+								display: inline;
+								padding: 0;
+								margin-left: 15px
+							}
+						</style>
+						<div class="link-line">
+							
+															<a target="_blank" href="https://weibo.com/u/6516220522"><i class="icon-weibo"><img src="https://www.itjuzi.com/assets/front//images/img/icon-weibo.png" width="14px"></i></a>
+							
+															<div class="dbi linkmore weixin c-gray hoversub">
+									<a><i class="icon-weixin"><img src="https://www.itjuzi.com/assets/front/images/img/icon-weixin.png" width="14px"></i></a>
+									<ul class="subblock  md-left">
+																					<!-- 微信二维码 -->
+											<li class="wx-img"><img src="http://open.weixin.qq.com/qr/code/?username=gh_6f0167030443">
+												<span>gh_6f0167030443</span>
+
+											</li>
+																			</ul>
+								</div>
+														<a href="http://" target="_blank"> <i class="fa fa-link t-small"></i> </a>													</div>
+
+					</div>
+
+					<div class="actbox">
+													<a class="actbtn on" href="https://www.itjuzi.com/user/login?redirect=company/32783643">
+							   <i class="fa fa-heart-o"></i><span>关注<i data-count="5">(5)</i></span>
+							</a>
+												<div class="actbtn on weixin-qrcode">
+							<i class="fa icon icon-share-o" aria-hidden="true"></i><span>分享</span><div class="qrcode-box"><canvas width="200" height="200"></canvas></div>
+						</div>
+						<!-- <a href="#" target="_blank" class="actbtn"><i class="fa fa-pencil"></i><span>我要纠错</span></a> -->
+					</div>
+				</div>
+			</div>
+
+			<div class="rowfoot">
+				<span style="margin-right:10px;">标签：</span>
+				<div class="tagset dbi c-gray-aset tag-list feedback-btn-parent">
+					<div class="tagset dbi c-gray-aset tag-list" style="margin-bottom:5px;">
+																		<a target="_blank" href="https://www.itjuzi.com/user/login" class="one-level-tag">本地生活</a>
+																													<a target="_blank" href="https://www.itjuzi.com/user/login" class="two-level-tag">
+								其他生活服务</a>
+																													<a href="https://www.itjuzi.com/tag/1220">酒水饮料</a>
+													<a href="https://www.itjuzi.com/tag/5014">自动售货机</a>
+													<a href="https://www.itjuzi.com/tag/7350">零售业</a>
+													<a href="https://www.itjuzi.com/tag/7356">生活零售</a>
+													<a href="https://www.itjuzi.com/tag/8445">住</a>
+																																			</div>
+										
+				</div>
+				
+				<span style="margin-right:10px;position:relative;top:20px">专辑：</span>
+				<div class="tagset dbi c-gray-aset album-list">
+																					<div class="collect-box">
+							<a href="https://www.itjuzi.com/user/login?redirect=company/32783643" class="collect-to-album">+ 收藏到你的专辑</a>
+						</div>
+									</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="boxed invest-info company-info company-new">
+
+	<div id="myTab" class="company-info-tab">
+		<div class="move-border-box">
+			<ul class="list-inline company-info-tab">
+				<li class="active" data-href="#home">概览</li>
+				<li data-href="#invest-portfolio">投融资</li>
+				<li data-href="#compete-goods">产品&amp;竞品</li>
+				<li data-href="#news-info">行业分析</li>
+				<li data-href="#comment-info">新闻动态</li>
+				<li data-href="#recruit-info">工商备案</li>
+									<li class="to-timeline-btn">
+					<a class="actbtn on claimable" href="https://www.itjuzi.com/user/login?redirect=company/32783643"><i class="fa icon icon-complete-info" aria-hidden="true"></i><span>完善信息</span></a>
+					</li>
+				<!--				<li class="to-timeline-btn">-->
+<!--					<a href="--><!--">成长岁月</a >-->
+<!--				</li>-->
+			</ul>
+			<div class="move-border-bar" style="width: 32px;"></div>
+		</div>
+	</div>
+
+	<div class="sidebar right">
+		<div class="sec">
+			<div>
+				<div class="block-numberpad colum3">
+					<div>
+						<p><b>
+							7677						</b></p>
+						<p><i class="fa icon icon-scan-o"></i> 浏览</p>
+					</div>
+					<div>
+						<p><b>5</b></p>
+						<p><i class="fa fa-heart-o" aria-hidden="true"></i> 关注</p>
+					</div>
+					<div goto="#block-commit" class="cp hoverc">
+						<p><b>0</b></p>
+						<p><i class="fa fa-comment-o"></i> 评论</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="sec sec-company clearfix">
+			<a href="javascript:;">
+				<img src="https://cdn.itjuzi.com/assets/front//images/img/wx.png" alt="">
+			</a>
+			<p>
+				<b>下载IT桔子客户端App</b><br>
+				互联网创投信息一手掌握
+			</p>
+		</div>
+						<div class="sec sec-notitleborder">
+			<div class="titlebar lite-bottom-border">
+				<h2 class="seo-about-info">认领该公司的用户</h2>
+			</div>
+			<div>
+				<ul class="list-lite-pictext oneline limited-itemnum">
+											<li>
+															<a href="https://www.itjuzi.com/user/login?redirect=company/32783643" class="cp no-target">
+									<span class="left">
+										<span class="usericon icon-small"></span>
+									</span>
+									<span class="right">
+										<span class="titlec"><span class="c-gray">我要认领</span></span>
+									</span>
+								</a>
+													</li>
+									</ul>
+			</div>
+		</div>
+					<div class="sec ugc-block-item bgpink">
+				<div class="titlebar">
+					<h2 class="seo-about-info" style="padding-left:20px;">该公司联系信息</h2>
+				</div>
+				<ul class="contact-list limited-itemnum">
+					<li>
+						<ul class="list-block aboutus">
+														
+														
+															<li>
+																			<i class="fa icon icon-address-o"></i><span>中国（四川）自由贸易试验区成都高新区天府大道中段500号1栋10楼1023号 </span>
+																	</li>
+													</ul>
+					</li>
+				</ul>
+			</div>
+				<div class="sec">
+			<div class="titlebar"><h2 class="seo-about-info">信息更新情况</h2></div>
+			<div>
+									<div class="pad"><span class="c-gray t-small">暂无更新</span></div>
+							</div>
+		</div>
+		
+		<div class="sec">
+			<div class="titlebar"><h2 class="seo-about-info">关注者</h2></div>
+			<div class="get_user">
+									<ul class="list-block user">
+													<li>
+																	<a href="https://www.itjuzi.com/user/542297" target="_blank"><img src="https://www.itjuzi.com/assets/front/images/img/icon-person.png" alt="" class="avatar-circle"></a>
+															</li>
+													<li>
+																	<a href="https://www.itjuzi.com/user/459734" target="_blank"><img src="https://cdn.itjuzi.com/images/143d0af2fb33e25f59285dc7aea7488b.png?imageView2/0/w/58/q/100" alt="" class="avatar-circle"></a>
+															</li>
+													<li>
+																	<a href="https://www.itjuzi.com/user/528895" target="_blank"><img src="https://www.itjuzi.com/assets/front/images/img/icon-person.png" alt="" class="avatar-circle"></a>
+															</li>
+													<li>
+																	<a href="https://www.itjuzi.com/user/541680" target="_blank"><img src="https://www.itjuzi.com/assets/front/images/img/icon-person.png" alt="" class="avatar-circle"></a>
+															</li>
+													<li>
+																	<a href="https://www.itjuzi.com/user/469998" target="_blank"><img src="https://cdn.itjuzi.com/images/49584b4c4f54c0dc95943113298e11c8.png?imageView2/0/w/58/q/100" alt="" class="avatar-circle"></a>
+															</li>
+																	</ul>
+							</div>
+		</div>
+
+		<div class="sec body-follow-btn" style="width: 280px;">
+							<a class="unfocused-for-new-btn text-center">想知道该公司后续发展情况？</a>
+				<a target="_blank" href="https://www.itjuzi.com/app" class="focused-for-new-btn text-center hidden">下载 APP, 实时获取动态</a>
+				<div class="new-btn">
+					<a class="new-btn needLogin" href="https://www.itjuzi.com/user/login?redirect=company/32783643">
+	                    <span class="focusable">立即关注</span>
+	                    <span class="focused">已关注</span>
+	                </a>
+	            </div>
+					</div>
+		<!-- 关注者 Modal -->
+		<div class="modal fade jzstyle jzstyle-white jkstyle-headerline user_follower" id="followerModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+		</div>
+		<!-- 关注者 Modal end-->
+	</div>
+
+	<!-- start 主体 -->
+	<div class="main-left-container">
+		<!-- start 基本信息 -->
+		<div class="sec ugc-block-item bgpink mart0">
+			<div class="titlebar">
+				<h2 class="seo-about-info"> 基本信息 </h2>
+			</div>
+			<div class="block-inc-info on-edit-hide">
+				
+				<!-- 公司简介 -->
+				<div class="block">
+											<div class="introduction">
+							安即猩是首套科技旗下的生活急需品新零售平台，是国内首创硬件＋软件＋服务为一体的新便利平台。安即猩将储存有避孕套、纸巾、卫生巾等日常生活急需品的智能售货机（壁挂式）投放于酒店、酒吧、会所等地及附近。  
+						</div>
+									</div>
+
+				<div class="block">
+					<div class="des-more">
+						<h2 class="seo-second-title margin-right50">成都首套科技有限公司</h2>
+						<h3 class="seo-secand-tilte margin-right50">成立于：<span>2017.12</span> </h3>
+						<h3 class="seo-secand-tilte margin-right50">公司规模：<span>30-50人</span> </h3>
+						<span class="pull-right tag green" style="margin-right:0;">运营中</span>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- end 基本信息 -->
+
+		<!-- start 融资 -->
+					<div class="sec panel-for-scroll" id="invest-portfolio" data-title="融资记录">
+				<div class="mask-panel">
+					<div class="titlebar">
+						<h2 class="seo-about-info"> 融资 </h2>
+					</div>
+											<div class="tac need2loginbox rel" style="height:1px;z-index:1;">                                                <a href="https://www.itjuzi.com/user/login/" class="jzbtn c" style="margin-top: 30px;">登录后查看</a>                                            </div><table class="list-round-v2 jzblur need2login">
+							<tbody>
+																																																							<tr class="feedback-btn-parent">
+										<td>
+											<span class="date ">2018-04-13</span>
+											<span class="mobile-block"></span>
+										</td>
+										<td class="mobile-none">
+											<span class="round"><a href="https://www.itjuzi.com/investevents/9443056" target="_blank">种子轮</a></span>
+										</td>
+										<td>
+											<span class="finades"><a href="https://www.itjuzi.com/investevents/9443056" target="_blank">￥80万</a></span>
+										</td>
+										<td>
+																					</td>
+										<td>
+											<a href="https://www.itjuzi.com/investevents/9443056" target="_blank">详情</a>
+											<span class="toggle-feedback-btn" data-type="financing" data-id="9443056">反馈</span>
+										</td>
+									</tr>
+							</tbody>
+						</table>
+						<div class="rowbtn rel">
+							<a class="c-gray toggle-radarVip" data-toggle="modal" data-target="#radarVipModal" data-backdrop="true">
+	                            升级为会员，查看该公司所有融资纪录
+	                        </a>
+						</div>
+									</div>
+			</div>
+				<!-- end 融资 -->
+
+		<!-- start 对外投资 -->
+				<!-- end 对外投资 --> 
+		
+		<!-- start 团队信息 -->
+					<div class="sec">
+				<div class="titlebar">
+					<h2 class="seo-about-info"> 团队信息 </h2>
+				</div>
+				<ul class="list-unstyled team-list limited-itemnum">
+											<li class="feedback-btn-parent first-letter-box-4js">
+															<a class="avatar" target="_blank" href="https://www.itjuzi.com/person/102583">
+									<span class="usericon" first-letter="黄"></span>
+								</a>
+														<div class="per-name">
+								<a target="_blank" class="person-name" href="https://www.itjuzi.com/person/102583">黄旭</a>
+							</div>
+							<div class="per-position">创始人</div>
+							<div class="per-des">
+								<div class="line3">
+									黄旭，安即猩创始人。								</div>
+							</div>
+							<div class="toggle-feedback-btn" data-type="team" data-id="102583">反馈</div>
+						</li>
+									</ul>
+							</div>
+				<!-- end 团队信息 -->
+
+		<!-- start 产品信息 -->
+		<div class="sec panel-for-scroll" id="compete-goods">
+			<div class="mask-panel">
+				<div class="titlebar">
+					<h2 class="seo-about-info"> 产品信息 </h2>
+				</div>
+									<div class="product-list empty-list empty-with-link" data-title="暂未收录该公司产品信息">
+	                    <div class="trigger-feedback toggle-feedback-btn" data-type="product_add" data-id="32783643">请告诉我们，让我们做得更好</div>
+	                </div>
+							</div>
+		</div>
+		<!-- end 产品信息 -->
+		<!-- start 竞品 -->
+		<div class="sec">
+			<div class="titlebar">
+				<h2 class="seo-about-info">竞品</h2>
+			</div>
+			<div class="sub-titlebar-box">
+				<div class="sub-titlebar detail-compete-info">
+																							<a href="#compititor-7356" data-toggle="tab" class="active-compititor">生活零售</a>
+													<a href="#compititor-5014" data-toggle="tab" class="">自动售货机</a>
+													<a href="#compititor-7350" data-toggle="tab" class="">零售业</a>
+													<a href="#compititor-1220" data-toggle="tab" class="">酒水饮料</a>
+															</div>
+			</div>
+
+			<!-- block 搜索列表区 -->
+			<div class="tab-content" data-url="https://www.itjuzi.com/follow/company">
+				<div class="tab-pane fade active in" id="compititor-1">
+					<ul class="list-main-icnset list-compete-info">
+											</ul>
+				</div>
+													<div class="tab-pane active" id="compititor-7356" data-id="1">
+													<ul class="list-main-icnset list-compete-info">
+																	<li>
+										<i class="cell pic">
+											<a target="_blank" href="https://www.itjuzi.com/company/52982">
+																									<span class="incicon" style="background-image: url(https://cdn.itjuzi.com/images/307ea660da42c0cae6beba073b597e25.png?imageView2/0/w/58/q/100)"></span>
+																							</a>
+										</i>
+										<i class="cell maincell">
+											<p class="title">
+												<a target="_blank" title="MatahariMall" href="https://www.itjuzi.com/company/52982"><span>MatahariMall</span></a>
+											</p>
+											<p>
+												<span class="t-small marr10">
+													亚洲												</span>
+												<span class="t-small">
+													2015-1												</span>
+											</p>
+										</i>
+										<div class="cell date" title="综合电商">
+											综合电商										</div>
+										<i class="cell action">
+											<span>战略投资</span>
+										</i>
+										<i class="cell action">
+											<span>1600万美元</span>
+										</i>
+									</li>
+																	<li>
+										<i class="cell pic">
+											<a target="_blank" href="https://www.itjuzi.com/company/48468">
+																									<span class="incicon" style="background-image: url(https://cdn.itjuzi.com/images/42d5aee1bb487d2d0af9a372c2a6a3a7.png?imageView2/0/w/58/q/100)"></span>
+																							</a>
+										</i>
+										<i class="cell maincell">
+											<p class="title">
+												<a target="_blank" title="购百特" href="https://www.itjuzi.com/company/48468"><span>购百特</span></a>
+											</p>
+											<p>
+												<span class="t-small marr10">
+													黑龙江												</span>
+												<span class="t-small">
+													2015-7												</span>
+											</p>
+										</i>
+										<div class="cell date" title="生鲜食品">
+											生鲜食品										</div>
+										<i class="cell action">
+											<span>A轮</span>
+										</i>
+										<i class="cell action">
+											<span>数千万人民币</span>
+										</i>
+									</li>
+																	<li>
+										<i class="cell pic">
+											<a target="_blank" href="https://www.itjuzi.com/company/8723">
+																									<span class="incicon" style="background-image: url(https://cdn.itjuzi.com/images/archive/8723.png?imageView2/0/w/58/q/100)"></span>
+																							</a>
+										</i>
+										<i class="cell maincell">
+											<p class="title">
+												<a target="_blank" title="茵曼INMAN" href="https://www.itjuzi.com/company/8723"><span>茵曼INMAN</span></a>
+											</p>
+											<p>
+												<span class="t-small marr10">
+													广东												</span>
+												<span class="t-small">
+													2007-7												</span>
+											</p>
+										</i>
+										<div class="cell date" title="服装服饰">
+											服装服饰										</div>
+										<i class="cell action">
+											<span>战略投资</span>
+										</i>
+										<i class="cell action">
+											<span>3.24亿人民币</span>
+										</i>
+									</li>
+															</ul>
+												<div class="rowbtn rel">
+							<a href="https://www.itjuzi.com/tag/7356" class="c-gray" title="了解更多 生活零售 公司"><span class="default_text">了解更多 生活零售 公司</span></a>
+						</div>
+					</div>
+														<div class="tab-pane fade" id="compititor-5014" data-id="2">
+													<ul class="list-main-icnset list-compete-info">
+																	<li>
+										<i class="cell pic">
+											<a target="_blank" href="https://www.itjuzi.com/company/32754449">
+																									<span class="incicon" style="background-image: url(https://cdn.itjuzi.com/images/88811200b40307a42b29566263d99817.png?imageView2/0/w/58/q/100)"></span>
+																							</a>
+										</i>
+										<i class="cell maincell">
+											<p class="title">
+												<a target="_blank" title="星咖科技" href="https://www.itjuzi.com/company/32754449"><span>星咖科技</span></a>
+											</p>
+											<p>
+												<span class="t-small marr10">
+													湖北												</span>
+												<span class="t-small">
+													2018-2												</span>
+											</p>
+										</i>
+										<div class="cell date" title="美食餐饮">
+											美食餐饮										</div>
+										<i class="cell action">
+											<span>种子轮</span>
+										</i>
+										<i class="cell action">
+											<span>数十万人民币</span>
+										</i>
+									</li>
+																	<li>
+										<i class="cell pic">
+											<a target="_blank" href="https://www.itjuzi.com/company/32623912">
+																									<span class="incicon" style="background-image: url(https://cdn.itjuzi.com/images/f2900fd21b0ee05432e5a778e2a5e088.jpg?imageView2/0/w/58/q/100)"></span>
+																							</a>
+										</i>
+										<i class="cell maincell">
+											<p class="title">
+												<a target="_blank" title="唛嘉智能" href="https://www.itjuzi.com/company/32623912"><span>唛嘉智能</span></a>
+											</p>
+											<p>
+												<span class="t-small marr10">
+													浙江												</span>
+												<span class="t-small">
+													2017-11												</span>
+											</p>
+										</i>
+										<div class="cell date" title="商户服务及信息化">
+											商户服务及信息化										</div>
+										<i class="cell action">
+											<span>天使轮</span>
+										</i>
+										<i class="cell action">
+											<span>数百万人民币</span>
+										</i>
+									</li>
+																	<li>
+										<i class="cell pic">
+											<a target="_blank" href="https://www.itjuzi.com/company/32617858">
+																									<span class="incicon" style="background-image: url(https://cdn.itjuzi.com/images/1ba44e0269a38d3f68e3af1ae074dff1.png?imageView2/0/w/58/q/100)"></span>
+																							</a>
+										</i>
+										<i class="cell maincell">
+											<p class="title">
+												<a target="_blank" title="摩小超" href="https://www.itjuzi.com/company/32617858"><span>摩小超</span></a>
+											</p>
+											<p>
+												<span class="t-small marr10">
+													湖北												</span>
+												<span class="t-small">
+													2017-3												</span>
+											</p>
+										</i>
+										<div class="cell date" title="其他企业服务">
+											其他企业服务										</div>
+										<i class="cell action">
+											<span>天使轮</span>
+										</i>
+										<i class="cell action">
+											<span>100万人民币</span>
+										</i>
+									</li>
+																	<li>
+										<i class="cell pic">
+											<a target="_blank" href="https://www.itjuzi.com/company/32520877">
+																									<span class="incicon" style="background-image: url(https://cdn.itjuzi.com/images/3940f40e40fbebccb872b525d85f9b12.png?imageView2/0/w/58/q/100)"></span>
+																							</a>
+										</i>
+										<i class="cell maincell">
+											<p class="title">
+												<a target="_blank" title="长风创新" href="https://www.itjuzi.com/company/32520877"><span>长风创新</span></a>
+											</p>
+											<p>
+												<span class="t-small marr10">
+													广东												</span>
+												<span class="t-small">
+													2017-4												</span>
+											</p>
+										</i>
+										<div class="cell date" title="综合电商">
+											综合电商										</div>
+										<i class="cell action">
+											<span>天使轮</span>
+										</i>
+										<i class="cell action">
+											<span>未透露</span>
+										</i>
+									</li>
+																	<li>
+										<i class="cell pic">
+											<a target="_blank" href="https://www.itjuzi.com/company/32762458">
+																									<span class="incicon" style="background-image: url(https://cdn.itjuzi.com/images/6b6900a24995dc02e0ca5621150569b0.png?imageView2/0/w/58/q/100)"></span>
+																							</a>
+										</i>
+										<i class="cell maincell">
+											<p class="title">
+												<a target="_blank" title="米步" href="https://www.itjuzi.com/company/32762458"><span>米步</span></a>
+											</p>
+											<p>
+												<span class="t-small marr10">
+													天津												</span>
+												<span class="t-small">
+													2017-4												</span>
+											</p>
+										</i>
+										<div class="cell date" title="其他硬件服务">
+											其他硬件服务										</div>
+										<i class="cell action">
+											<span>天使轮</span>
+										</i>
+										<i class="cell action">
+											<span>未透露</span>
+										</i>
+									</li>
+																	<li>
+										<i class="cell pic">
+											<a target="_blank" href="https://www.itjuzi.com/company/32123380">
+																									<span class="incicon" style="background-image: url(https://cdn.itjuzi.com/images/4980f9b0107e688f3189757a09ac03dc.png?imageView2/0/w/58/q/100)"></span>
+																							</a>
+										</i>
+										<i class="cell maincell">
+											<p class="title">
+												<a target="_blank" title="小卖柜" href="https://www.itjuzi.com/company/32123380"><span>小卖柜</span></a>
+											</p>
+											<p>
+												<span class="t-small marr10">
+													安徽												</span>
+												<span class="t-small">
+													2017-2												</span>
+											</p>
+										</i>
+										<div class="cell date" title="其他生活服务">
+											其他生活服务										</div>
+										<i class="cell action">
+											<span>天使轮</span>
+										</i>
+										<i class="cell action">
+											<span>4500万人民币</span>
+										</i>
+									</li>
+															</ul>
+												<div class="rowbtn rel">
+							<a href="https://www.itjuzi.com/tag/5014" class="c-gray" title="了解更多 自动售货机 公司"><span class="default_text">了解更多 自动售货机 公司</span></a>
+						</div>
+					</div>
+														<div class="tab-pane fade" id="compititor-7350" data-id="3">
+													<ul class="list-main-icnset list-compete-info">
+																	<li>
+										<i class="cell pic">
+											<a target="_blank" href="https://www.itjuzi.com/company/65773">
+																									<span class="incicon" style="background-image: url(https://cdn.itjuzi.com/images/a012860be4422fd73b89f438af9c2f33.jpg?imageView2/0/w/58/q/100)"></span>
+																							</a>
+										</i>
+										<i class="cell maincell">
+											<p class="title">
+												<a target="_blank" title="神奇屋" href="https://www.itjuzi.com/company/65773"><span>神奇屋</span></a>
+											</p>
+											<p>
+												<span class="t-small marr10">
+													广东												</span>
+												<span class="t-small">
+													2016-11												</span>
+											</p>
+										</i>
+										<div class="cell date" title="电商解决方案">
+											电商解决方案										</div>
+										<i class="cell action">
+											<span>战略投资</span>
+										</i>
+										<i class="cell action">
+											<span>数百万人民币</span>
+										</i>
+									</li>
+																	<li>
+										<i class="cell pic">
+											<a target="_blank" href="https://www.itjuzi.com/company/38753">
+																									<span class="incicon" style="background-image: url(https://cdn.itjuzi.com/images/6d760d64019c6006fdd65404043078fc.png?imageView2/0/w/58/q/100)"></span>
+																							</a>
+										</i>
+										<i class="cell maincell">
+											<p class="title">
+												<a target="_blank" title="7TT快鼠" href="https://www.itjuzi.com/company/38753"><span>7TT快鼠</span></a>
+											</p>
+											<p>
+												<span class="t-small marr10">
+													湖北												</span>
+												<span class="t-small">
+													2014-12												</span>
+											</p>
+										</i>
+										<div class="cell date" title="生鲜食品">
+											生鲜食品										</div>
+										<i class="cell action">
+											<span>B轮</span>
+										</i>
+										<i class="cell action">
+											<span>数千万人民币</span>
+										</i>
+									</li>
+																	<li>
+										<i class="cell pic">
+											<a target="_blank" href="https://www.itjuzi.com/company/66929">
+																									<span class="incicon" style="background-image: url(https://cdn.itjuzi.com/images/0fb0289c5ca3fc503aa1b8526a78bbd7.jpg?imageView2/0/w/58/q/100)"></span>
+																							</a>
+										</i>
+										<i class="cell maincell">
+											<p class="title">
+												<a target="_blank" title="深兰科技" href="https://www.itjuzi.com/company/66929"><span>深兰科技</span></a>
+											</p>
+											<p>
+												<span class="t-small marr10">
+													上海												</span>
+												<span class="t-small">
+													2012-8												</span>
+											</p>
+										</i>
+										<div class="cell date" title="电商解决方案">
+											电商解决方案										</div>
+										<i class="cell action">
+											<span>A+轮</span>
+										</i>
+										<i class="cell action">
+											<span>2亿人民币</span>
+										</i>
+									</li>
+																	<li>
+										<i class="cell pic">
+											<a target="_blank" href="https://www.itjuzi.com/company/32689322">
+																									<span class="incicon" style="background-image: url(https://cdn.itjuzi.com/images/0bcd181b6d3347e96f8096fff947d8f2.png?imageView2/0/w/58/q/100)"></span>
+																							</a>
+										</i>
+										<i class="cell maincell">
+											<p class="title">
+												<a target="_blank" title="本来集市" href="https://www.itjuzi.com/company/32689322"><span>本来集市</span></a>
+											</p>
+											<p>
+												<span class="t-small marr10">
+													北京												</span>
+												<span class="t-small">
+													2015-2												</span>
+											</p>
+										</i>
+										<div class="cell date" title="电商解决方案">
+											电商解决方案										</div>
+										<i class="cell action">
+											<span>A轮</span>
+										</i>
+										<i class="cell action">
+											<span>未透露</span>
+										</i>
+									</li>
+																	<li>
+										<i class="cell pic">
+											<a target="_blank" href="https://www.itjuzi.com/company/573161">
+																									<span class="incicon" style="background-image: url(https://cdn.itjuzi.com/images/4f30186b55174684fd71754c624ea80e.png?imageView2/0/w/58/q/100)"></span>
+																							</a>
+										</i>
+										<i class="cell maincell">
+											<p class="title">
+												<a target="_blank" title="河豚有情绪" href="https://www.itjuzi.com/company/573161"><span>河豚有情绪</span></a>
+											</p>
+											<p>
+												<span class="t-small marr10">
+													北京												</span>
+												<span class="t-small">
+													2017-3												</span>
+											</p>
+										</i>
+										<div class="cell date" title="生鲜食品">
+											生鲜食品										</div>
+										<i class="cell action">
+											<span>天使轮</span>
+										</i>
+										<i class="cell action">
+											<span>未透露</span>
+										</i>
+									</li>
+																	<li>
+										<i class="cell pic">
+											<a target="_blank" href="https://www.itjuzi.com/company/32642494">
+																									<span class="incicon" style="background-image: url(https://cdn.itjuzi.com/images/e7b144d3b7feb7dedfa2e0f88dfe56ce.png?imageView2/0/w/58/q/100)"></span>
+																							</a>
+										</i>
+										<i class="cell maincell">
+											<p class="title">
+												<a target="_blank" title="晟天便利" href="https://www.itjuzi.com/company/32642494"><span>晟天便利</span></a>
+											</p>
+											<p>
+												<span class="t-small marr10">
+													北京												</span>
+												<span class="t-small">
+													2014-3												</span>
+											</p>
+										</i>
+										<div class="cell date" title="其他电商服务">
+											其他电商服务										</div>
+										<i class="cell action">
+											<span>A轮</span>
+										</i>
+										<i class="cell action">
+											<span>亿元及以上人民币</span>
+										</i>
+									</li>
+															</ul>
+												<div class="rowbtn rel">
+							<a href="https://www.itjuzi.com/tag/7350" class="c-gray" title="了解更多 零售业 公司"><span class="default_text">了解更多 零售业 公司</span></a>
+						</div>
+					</div>
+														<div class="tab-pane fade" id="compititor-1220" data-id="4">
+													<ul class="list-main-icnset list-compete-info">
+																	<li>
+										<i class="cell pic">
+											<a target="_blank" href="https://www.itjuzi.com/company/32784582">
+																									<span class="incicon" style="background-image: url(https://cdn.itjuzi.com/images/3527a50ca440e4754bf1339c3969d855.png?imageView2/0/w/58/q/100)"></span>
+																							</a>
+										</i>
+										<i class="cell maincell">
+											<p class="title">
+												<a target="_blank" title="谷小酒" href="https://www.itjuzi.com/company/32784582"><span>谷小酒</span></a>
+											</p>
+											<p>
+												<span class="t-small marr10">
+													四川												</span>
+												<span class="t-small">
+													2018-1												</span>
+											</p>
+										</i>
+										<div class="cell date" title="美食餐饮">
+											美食餐饮										</div>
+										<i class="cell action">
+											<span>天使轮</span>
+										</i>
+										<i class="cell action">
+											<span>3000万人民币</span>
+										</i>
+									</li>
+																	<li>
+										<i class="cell pic">
+											<a target="_blank" href="https://www.itjuzi.com/company/32765713">
+																									<span class="incicon" style="background-image: url(https://cdn.itjuzi.com/images/e5611ec0b74cef1adf933f399b0f40e0.png?imageView2/0/w/58/q/100)"></span>
+																							</a>
+										</i>
+										<i class="cell maincell">
+											<p class="title">
+												<a target="_blank" title="GOGO动咖啡" href="https://www.itjuzi.com/company/32765713"><span>GOGO动咖啡</span></a>
+											</p>
+											<p>
+												<span class="t-small marr10">
+													上海												</span>
+												<span class="t-small">
+													2017-10												</span>
+											</p>
+										</i>
+										<div class="cell date" title="美食餐饮">
+											美食餐饮										</div>
+										<i class="cell action">
+											<span>天使轮</span>
+										</i>
+										<i class="cell action">
+											<span>未透露</span>
+										</i>
+									</li>
+																	<li>
+										<i class="cell pic">
+											<a target="_blank" href="https://www.itjuzi.com/company/16517">
+																									<span class="incicon" style="background-image: url(https://cdn.itjuzi.com/images/d8c4db3919a82837c0bcabc11a26854f.png?imageView2/0/w/58/q/100)"></span>
+																							</a>
+										</i>
+										<i class="cell maincell">
+											<p class="title">
+												<a target="_blank" title="连咖啡" href="https://www.itjuzi.com/company/16517"><span>连咖啡</span></a>
+											</p>
+											<p>
+												<span class="t-small marr10">
+													上海												</span>
+												<span class="t-small">
+													2012-7												</span>
+											</p>
+										</i>
+										<div class="cell date" title="美食餐饮">
+											美食餐饮										</div>
+										<i class="cell action">
+											<span>B+轮</span>
+										</i>
+										<i class="cell action">
+											<span>1.58亿人民币</span>
+										</i>
+									</li>
+																	<li>
+										<i class="cell pic">
+											<a target="_blank" href="https://www.itjuzi.com/company/32675095">
+																									<span class="incicon" style="background-image: url(https://cdn.itjuzi.com/images/18819d36d7476093e9d30c272e449c40.png?imageView2/0/w/58/q/100)"></span>
+																							</a>
+										</i>
+										<i class="cell maincell">
+											<p class="title">
+												<a target="_blank" title="每一天便利" href="https://www.itjuzi.com/company/32675095"><span>每一天便利</span></a>
+											</p>
+											<p>
+												<span class="t-small marr10">
+													陕西												</span>
+												<span class="t-small">
+													2010-7												</span>
+											</p>
+										</i>
+										<div class="cell date" title="美食餐饮">
+											美食餐饮										</div>
+										<i class="cell action">
+											<span>天使轮</span>
+										</i>
+										<i class="cell action">
+											<span>2亿人民币</span>
+										</i>
+									</li>
+																	<li>
+										<i class="cell pic">
+											<a target="_blank" href="https://www.itjuzi.com/company/21004">
+																									<span class="incicon" style="background-image: url(https://cdn.itjuzi.com/images/8aec1055a92ebb507c60f6318ae4a014.jpg?imageView2/0/w/58/q/100)"></span>
+																							</a>
+										</i>
+										<i class="cell maincell">
+											<p class="title">
+												<a target="_blank" title="鼎加弘思" href="https://www.itjuzi.com/company/21004"><span>鼎加弘思</span></a>
+											</p>
+											<p>
+												<span class="t-small marr10">
+													广东												</span>
+												<span class="t-small">
+													2015-11												</span>
+											</p>
+										</i>
+										<div class="cell date" title="美食餐饮">
+											美食餐饮										</div>
+										<i class="cell action">
+											<span>A轮</span>
+										</i>
+										<i class="cell action">
+											<span>6000万人民币</span>
+										</i>
+									</li>
+																	<li>
+										<i class="cell pic">
+											<a target="_blank" href="https://www.itjuzi.com/company/31139">
+																									<span class="incicon" style="background-image: url(https://cdn.itjuzi.com/images/f05685ebb3bd93b6c3b241dda9d159ca.png?imageView2/0/w/58/q/100)"></span>
+																							</a>
+										</i>
+										<i class="cell maincell">
+											<p class="title">
+												<a target="_blank" title="酒便利" href="https://www.itjuzi.com/company/31139"><span>酒便利</span></a>
+											</p>
+											<p>
+												<span class="t-small marr10">
+													河南												</span>
+												<span class="t-small">
+													2010-4												</span>
+											</p>
+										</i>
+										<div class="cell date" title="生鲜食品">
+											生鲜食品										</div>
+										<i class="cell action">
+											<span>C轮</span>
+										</i>
+										<i class="cell action">
+											<span>1.05亿人民币</span>
+										</i>
+									</li>
+															</ul>
+												<div class="rowbtn rel">
+							<a href="https://www.itjuzi.com/tag/1220" class="c-gray" title="了解更多 酒水饮料 公司"><span class="default_text">了解更多 酒水饮料 公司</span></a>
+						</div>
+					</div>
+												</div>
+		</div>
+		<!-- end 竞品 -->
+		<!-- end 行业分析 -->
+		<!-- start 相关分析报告 -->
+		<div class="sec">
+			<div class="titlebar clearfix">
+				<h2 class="seo-about-info">相关分析报告</h2>
+			</div>
+							<ul class="list-unstyled analysis-report-list">
+											<li>
+							<a target="_blank" href="http://radar.itjuzi.com/report?word=【行业】2017商业贸易行业深度研究“穿越消费周期”系列新型商业模式研究：高鑫VS永辉，站在路口的执牛耳者.pdf">
+								【行业】2017商业贸易行业深度研究“穿越消费周期”系列新型商业模式研究：高鑫VS永辉，站在路口的执牛耳者.pdf
+							</a>
+                            <span>1.7 MB</span>
+						</li>
+											<li>
+							<a target="_blank" href="http://radar.itjuzi.com/report?word=中国社区O2O市场专题研究报告2015（简版）">
+								中国社区O2O市场专题研究报告2015（简版）
+							</a>
+                            <span>1.3 MB</span>
+						</li>
+											<li>
+							<a target="_blank" href="http://radar.itjuzi.com/report?word=20170424-中信证券-商业零售行业“消费新解构”之精致生活专题研究报告：精品味，细体贴，享生活">
+								20170424-中信证券-商业零售行业“消费新解构”之精致生活专题研究报告：精品味，细体贴，享生活
+							</a>
+                            <span>1.8 MB</span>
+						</li>
+											<li>
+							<a target="_blank" href="http://radar.itjuzi.com/report?word=易观中国新零售研究专题分析报告2017_Vfinal_20171107">
+								易观中国新零售研究专题分析报告2017_Vfinal_20171107
+							</a>
+                            <span>3.4 MB</span>
+						</li>
+											<li>
+							<a target="_blank" href="http://radar.itjuzi.com/report?word=易观-中国新零售研究专题分析报告2017">
+								易观-中国新零售研究专题分析报告2017
+							</a>
+                            <span>4.4 MB</span>
+						</li>
+											<li>
+							<a target="_blank" href="http://radar.itjuzi.com/report?word=Costco的启示，国内精品生活电商有望兴起，优质供应链厂商受益.pdf">
+								Costco的启示，国内精品生活电商有望兴起，优质供应链厂商受益.pdf
+							</a>
+                            <span>1.0 MB</span>
+						</li>
+									</ul>
+				<div class="rowbtn rel">
+					<div class="c-gray a">
+						<a class="default_text download" href="http://radar.itjuzi.com/report?word=其他生活服务">立即下载</a>
+					</div>
+				</div>
+					</div>
+		<!-- end 相关分析报告 -->
+		<!-- start 新闻 -->
+				<div class="sec panel-for-scroll" id="comment-info">
+			<div class="titlebar clearfix">
+				<h2 class="seo-about-info">新闻</h2>
+			</div>
+			<ul class="list-unstyled news-list">
+									<li class="feedback-btn-parent feedback-btn-parent">
+						<span class="news-date">
+							2018-04-13						</span>
+						<a href="http://www.lieyunwang.com/archives/429706" target="_blank" class="line1" rel="nofollow">场景生活用品即买即用，安全套智能售卖平台“安即猩”获80万种子轮融资</a>
+													<span class="news-tag">资本</span>
+																			<span class="toggle-feedback-btn direct-feedback" data-type="news" data-id="77415">反馈</span>
+											</li>
+							</ul>
+					</div>
+				<!-- end 新闻 -->
+		<!-- start 新三板 -->
+				<!-- end 新三板 -->
+		<!-- start 工商信息 -->
+					<!-- 工商信息 -->
+				<div class="sec indus-info panel-for-scroll" id="recruit-info">
+					<div class="titlebar clearfix">
+						<h2 class="seo-about-info"><i class="fa fa-users"></i> 工商信息</h2>
+						<p class="seo-about-origin pull-right">
+							<a href="https://www.baihuo.com/" target="_blank;">找客户，用百获baihuo.com，AI助力获客</a>
+						</p>
+					</div>
+					<div class="icp-bussiness">
+						<ul class="nav-tabs list-inline stock_titlebar">
+							<li class="active"><a data-toggle="tab" href="#indus_base">基本信息</a></li>
+							<li><a data-toggle="tab" href="#indus_shareholder">股东信息</a></li>
+							<li><a data-toggle="tab" href="#indus_foreign_invest">企业对外投资信息</a></li>
+							<li><a data-toggle="tab" href="#indus_busi_info">工商变更</a></li>
+						</ul>
+						<div class="tab-content">
+							<div class="tab-pane fade in active bussiness_main" id="indus_base">
+								<div class="essential">
+									<table class="table table-bordered">
+										<thead>
+										<tr>
+											<th colspan="2">成都首套科技有限公司</th>
+										</tr>
+										</thead>
+										<tbody>
+										<tr>
+											<td>
+												<span class="tab_title">注册资本:</span>
+												<span class="tab_main">
+												<i>100.0万</i>
+												人民币
+											</span>
+											</td>
+											<td>
+												<span class="tab_title">成立时间:</span>
+												<span class="tab_main">2017-12-06</span>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<span class="tab_title">法人代表:</span>
+												<span class="tab_main">张平</span>
+											</td>
+
+											<td>
+												<span class="tab_title">公司类型:</span>
+												<span class="tab_main">
+												有限责任公司（自然人投资或控股）											</span>
+											</td>
+										</tr>
+										<tr>
+											<td></td>
+											<td>
+												<span class="tab_title">地址:</span>
+												<span class="tab_main">
+												中国（四川）自由贸易试验区成都高新区天府大道中段500号1栋10楼1023号											</span>
+											</td>
+										</tr>
+										</tbody>
+									</table>
+								</div>
+							</div>
+
+                                                                	<div class="tab-pane fade bussiness_main need-vip" id="indus_shareholder" data-title="股东信息"><div class="tobe-vip-box"><p>升级为会员，查看该公司所有股东信息</p><a class="tobe-vip-now new-btn" href="http://radar.itjuzi.com/order" target="_blank">立刻升级</a></div>
+                                        <div class="mask-panel">
+                                            <div class="shareholder">
+                                                <h2 class="seo-about-info"><i class="fa fa-users"></i> 工商信息</h2>
+                                                <p class="seo-about-origin pull-right">
+                                                    数据来源
+                                                    <a href="http://elements.org.cn/" target="_blank;">
+                                                        @元素征信
+                                                    </a>
+                                                </p>
+                                            </div>
+                                            <img src="https://cdn.itjuzi.com/assets/front/images/pic/bussiness_vip.png" alt="工商VIP">
+                                        </div>
+                                    </div>
+                                							
+							
+                                                                    <div class="tab-pane fade bussiness_main need-vip" id="indus_foreign_invest" data-title="对外投资"><div class="tobe-vip-box"><p>升级为会员，查看该公司所有对外投资</p><a class="tobe-vip-now new-btn" href="http://radar.itjuzi.com/order" target="_blank">立刻升级</a></div>
+                                        <div class="mask-panel">
+                                            <div class="shareholder">
+                                                <h2 class="seo-about-info"><i class="fa fa-users"></i> 工商信息</h2>
+                                                <p class="seo-about-origin pull-right">
+                                                    数据来源
+                                                    <a href="http://elements.org.cn/" target="_blank;">
+                                                        @元素征信
+                                                    </a>
+                                                </p>
+                                            </div>
+                                            <img src="https://cdn.itjuzi.com/assets/front/images/pic/bussiness_vip.png" alt="工商VIP">
+                                        </div>
+                                    </div>
+                                							
+							
+                                                                    <div class="tab-pane fade bussiness_main need-vip" id="indus_busi_info" data-title="工商变更"><div class="tobe-vip-box"><p>升级为会员，查看该公司所有工商变更</p><a class="tobe-vip-now new-btn" href="http://radar.itjuzi.com/order" target="_blank">立刻升级</a></div>
+                                        <div class="mask-panel">
+                                            <div class="industry">
+                                                <h2 class="seo-about-info"><i class="fa fa-users"></i> 工商信息</h2>
+                                                <p class="seo-about-origin pull-right">
+                                                    数据来源
+                                                    <a href="http://elements.org.cn/" target="_blank;">
+                                                        @元素征信
+                                                    </a>
+                                                </p>
+                                            </div>
+                                            <img src="https://cdn.itjuzi.com/assets/front/images/pic/bussiness_vip.png" alt="工商VIP">
+                                        </div>
+                                    </div>
+                                							</div>
+						
+					</div>
+					<div class="tac" style="padding-bottom: 15px;margin-top: -25px;">
+					    数据来源
+				       <a href="https://elements.org.cn/" target="_blank;" style="color: #ff4d37;">@元素征信</a>
+					</div>
+				</div>
+				<!-- end 工商信息 -->
+		<!-- start 备案网站 -->
+				<!-- end 备案网站 -->
+		<!-- start 法律诉讼 -->
+		        <!-- end 法律诉讼 -->
+		<!-- start 里程碑 -->
+				<!-- end 里程碑 -->
+		<!-- start 商标 -->
+					<div id="qds-sec" class="sec">
+				<div class="titlebar">
+					<h2 class="seo-about-info">商标信息</h2>
+				</div>
+				<div class="block block-v padb0">
+					<div class="brand-wrap">
+						<div class="brand-info">
+							<p>商标申请方： 成都首套科技有限公司 </p>
+							<p>商标申请总数：<span style="color:#ec721f; font-weight:bold;"></span></p>
+						</div>
+						<div class="brand-table" style="margin-bottom:35px;">
+							<table class="table table-bordered" style="border:solid 1px #f8f8f8; text-align:center; color:#666;">
+								<thead>
+								<tr>
+									<td style="border:solid 1px #f8f8f8; padding:5px; background-color:#eaeaea;">商标名称</td>
+									<td style="border:solid 1px #f8f8f8; padding:5px; background-color:#eaeaea;">注册号</td>
+									<td style="border:solid 1px #f8f8f8; padding:5px; background-color:#eaeaea;">类别</td>
+									<td style="border:solid 1px #f8f8f8; padding:5px; background-color:#eaeaea;">商标状态</td>
+									<td style="border:solid 1px #f8f8f8; padding:5px; background-color:#eaeaea;">申请日期</td>
+								</tr>
+								</thead>
+								<tbody>
+                                								                                								</tbody>
+							</table>
+							<div class="pad-v tac border-top">
+								数据来源 权大师 <a href="http://so.quandashi.com?from=itjuzi" class="c" target="_blank">查看更多信息 <i class="fa fa-arrow-circle-o-right"></i></a>
+							</div>
+
+							<!-- 嵌套权大师的百度统计 -->
+							<div class="boxed" style="display:none;">
+								<div class="sec">
+									<iframe width="100%" height="200" frameborder="0" scrolling="auto" src="https://so.quandashi.com/itjuice.html"></iframe>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		
+		<!-- end 商标 -->
+		<!-- start 评论 -->
+		<div class="sec">
+			<div class="titlebar">
+				<h2 class="seo-about-info">评论</h2>
+			</div>
+			<div>
+				<div id="block-commit" class="block-commit">
+											<!-- 未登陆： -->
+						<div class="commit">
+							<div class="left">
+								<span class="usericon"></span>
+							</div>
+							<div class="right">
+								<textarea name="" spellcheck="false" disabled="" placeholder="请登录"></textarea>
+								<a href="https://www.itjuzi.com/user/login?redirect=company/32783643" class="subbtn subbtn-commit">登录</a>
+							</div>
+						</div>
+					
+					<div class="commitlist limited-itemnum">
+											</div>
+									</div>
+			</div>
+		</div>
+		<!-- end 评论 -->
+	</div>
+	<!-- end 主体 -->
+
+</div>
+<!-- 该详情页的时间线页面 -->
+<input type="hidden" value="https://www.itjuzi.com/company/timeline/32783643" id="timeline-url">
+<input type="hidden" id="current_page" value="1">
+<script>
+	$('.get_user').on('click', '#get_follower', function() {
+		var btn = $(this);
+		var com_id = btn.attr('com_id');
+		$.ajax({
+			url: window.site_url + 'company/get_all_claim_user',
+			type: 'POST',
+			data: { 'com_id':com_id },
+			dataType: 'html',
+			success:function(msg){
+				$('.user_follower').html(msg);
+			}
+		})
+	});
+
+</script>
+
+							<!-- start footer-->
+<div class="footer-container">
+    <div class="search-input-box hidden-for-mobile">
+        <h4>订阅IT桔子周报，跟踪每周创投动态</h4>
+<!--        <form class="form-inline">-->
+		<form action="//itjuzi.us11.list-manage.com/subscribe/post?u=6b3e3c5490060d631ec016134&amp;id=b05ed8edcd" class="form-inline" id="mc-embedded-subscribe-form" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank">
+            <div class="form-group">
+                <div class="input-group">
+                    <input type="text" class="form-control" placeholder="请输入邮箱">
+                    <button class="input-group-addon footer-search-btn" type="submit">订阅</button>
+                </div>
+            </div>
+        </form>
+    </div>
+    <div class="link-box">
+        <a href="https://www.itjuzi.com/" class="logo-box">
+            <img class="logo" style="height: initial;" src="https://cdn.itjuzi.com/assets/front//images/img/logo-with-slogan.png" alt="图片加载失败">
+        </a>
+        <ul class="list-unstyled list-inline">
+            <li>
+				<a target="_blank" href="https://www.itjuzi.com/aboutus">关于IT桔子</a>
+			</li>
+			<li>
+				<a target="_blank" href="https://www.itjuzi.com/joinus">加入我们</a>
+			</li>
+			<li>
+				<a target="_blank" href="https://www.itjuzi.com/contact">联系我们</a>
+			</li>
+			<li>
+				<a target="_blank" href="https://www.itjuzi.com/partners">合作伙伴</a>
+			</li>
+
+			<li>
+				<a target="_blank" href="https://www.itjuzi.com/aboutus/app_policy">用户协议</a>
+			</li>
+			<li>
+				<a target="_blank" href="https://www.itjuzi.com/aboutus/policy">隐私条款</a>
+			</li>
+
+        </ul>
+        <div class="record-box">
+            © 2013~2018 IT桔子 | 京ICP备14026526号-2
+        </div>
+    </div>
+</div>
+<!-- end footer-->
+					</div>
+
+		
+					<script>
+				window.site_url = 'https://www.itjuzi.com/';
+			</script>
+
+			<script type="text/javascript">
+				$(document).ready(function(){
+					$.get(window.site_url + "home/get_user_info", function(result){
+						var results=eval('('+result+')');
+						if (results.vip_show == 1){
+							if(results.claim_show != 0){
+								var str = '<a id="loginurl" class="marl10" href="'+window.site_url+'v2/user_center">hi，'+results.user_name+
+									'<span class="iconfont icon-vip" title="有效期到'+results.vip_time+'"> </span>' +
+									'<span class="iconfont icon-renzheng" style="'+results.claim_color+'" title="'+results.claim_title+'"> </span></a>';
+							}else{
+								var str = '<a id="loginurl" class="marl10" href="'+window.site_url+'v2/user_center">hi，'+results.user_name+
+									'<span class="iconfont icon-vip" title="有效期到'+results.vip_time+'"> </span></a>';
+							}
+						}else{
+							if(results.claim_show != 0){
+								if(results.vip_time){
+									var str = '<a id="loginurl" class="marl10" href="'+window.site_url+'v2/user_center">hi，'+results.user_name+
+										'<span class="iconfont icon-vip" style="color:gray;" title="会员已过期"> </span>' +
+										'<span class="iconfont icon-renzheng" style="'+results.claim_color+'" title="'+results.claim_title+'"> </span></a>';
+								}else{
+									var str = '<a id="loginurl" class="marl10" href="'+window.site_url+'v2/user_center" ' +
+										'title="有效期到'+results.vip_time+'">hi，'+results.user_name
+										+'<span class="iconfont icon-renzheng" style="'+results.claim_color+'" title="'+results.claim_title+'"> </span></a>';
+								}
+							}else{
+								if(results.vip_time){
+									var str = '<a id="loginurl" class="marl10" href="'+window.site_url+'v2/user_center">hi，'+results.user_name+
+										'<span style="color:gray;" class="iconfont icon-vip" title="会员已过期"> </span></a>';
+								}else{
+									var str = '<a id="loginurl" class="marl10" href="'+window.site_url+'v2/user_center" ' +
+										'title="有效期到'+results.vip_time+'">hi，'+results.user_name+'</a>';
+								}
+							}
+						}
+						if(results.claim_show == 0){
+							var claim = '<a class="marl10" style="color: gray" href="'+window.site_url+'user/authentication">'+'申请认证'+'</a>';
+						}
+						$("#logo_name").html(str);
+						$("#logo_name").show();
+						$("#claim").html(claim);
+						$("#claim").show();
+					});
+					
+				  	var identity = $.cookie("identity");
+				  	var redirect = '?redirect=company/32783643';
+				  	if(identity == undefined){
+						var str = '<div class="userlogin"><a id="loginurl" class="jzbtn" href="'+window.site_url+'user/login'+redirect+'">登录</a><a class="jzbtn" href="'+window.site_url+'user/register'+redirect+'">注册</a></div>';
+						$("#login").html(str); 
+						$("#login").show(); 
+					}else{
+						$.get(window.site_url + "home/get_user_info?unique_token=" + $.cookie("unique_token"), function(result){
+							var results=eval('('+result+')'); 
+						   	if(results.status==0){
+								var str = '<div class="userlogin"><a id="loginurl" class="jzbtn" href="'+window.site_url+'user/login'+redirect+'">登录</a><a class="jzbtn" href="'+window.site_url+'user/register'+redirect+'">注册</a></div>';
+								$("#login").html(str); 
+								$("#login").show();
+						   	}else{
+								var str = '<div class="usermenu hoversub">' +
+                                    '<a href="'+window.site_url+'user/'+results.user_id+'" class="c-white" title="进入个人中心">'+results.user_name+'</a>' +
+                                    '<a';
+
+								if (results.claim_show == 1) {
+                                    str += ' class="claimed-mark"';
+                                    str += '><img src='+results.logo+'></a>' +
+                                        '<div class="subblock"><ul class="list-dropdown-menu"><li class="auth-label-box">' +
+                                        '</li><li><a href="'+window.site_url+'user/'+results.user_id+'">我的关注</a>' +
+                                        '</li><li><a href="'+window.site_url+'user/edit">我的资料</a>' +
+                                        '</li><li><a href="http://radar.itjuzi.com/bill">我的订单</a>' +
+                                        '</li><li><a id="logout_btn" href="'+window.site_url+'user/logout">退出</a>' +
+                                        '</li></ul></div></div>';
+                                }else{
+                                    str += '><img src='+results.logo+'></a>' +
+                                        '<div class="subblock"><ul class="list-dropdown-menu"><li class="auth-label-box">' +
+                                        '<a href="'+window.site_url+'user/authentication">认证</a>'+'<span ' +'class="auth-label">hot</span>'+
+                                        '</li><li><a href="'+window.site_url+'user/'+results.user_id+'">我的关注</a>' +
+                                        '</li><li><a href="'+window.site_url+'user/edit">我的资料</a>' +
+                                        '</li><li><a href="http://radar.itjuzi.com/bill">我的订单</a>' +
+                                        '</li><li><a id="logout_btn" href="'+window.site_url+'user/logout">退出</a>' +
+                                        '</li></ul></div></div>';
+                                }
+
+
+								$("#login").html(str); 
+								$("#login").show(); 
+						   	}
+						});	
+					}
+				});
+				
+			</script>
+
+			<script src="https://cdn.itjuzi.com/assets/front/scripts/jquery.lazyload.js"></script>
+			<script>
+				$(function () {
+				   $("img.lazy").lazyload({
+						effect: "fadeIn"
+					});
+				});
+			</script>
+			<script src="https://cdn.itjuzi.com/assets/front/scripts/main.js?v=74a35ec"></script>
+			<script src="https://cdn.itjuzi.com/assets/front/scripts/faralert.js"></script>
+							<script src="https://cdn.itjuzi.com/assets/front/scripts/company-info.js?v=74a35ec"></script>
+			
+			
+			<!-- Uploadify -->
+			<script src="https://cdn.itjuzi.com/assets/common/uploadify/jquery.uploadify.min.js"></script>
+
+			<script>
+    $(function(){
+                $("#upload_image").uploadify({
+            swf: 'https://www.itjuzi.com/assets/common/uploadify/uploadify.swf',
+            uploader: 'https://www.itjuzi.com/uploadify/get_upload_file',
+            'buttonText' : '上传图片',
+            'fileTypeDesc' : '您所选的文件',
+            'fileTypeExts' : '*.gif; *.jpg; *.png',
+            multi: false,
+            debug: false,
+            formData : {userdata:'Y2M5MzY1OWYxNjU0OWY1Y2E3ZGYxNDU1NDZmMDg4NDg2MmRkZDI1Njc1NzNmYzc0ZjkzMjAwZTI1MTMzMjhiYTBkOTBjM2M0YzNkYzlhYzFlNGU3NjQwMDdkMGUyNGNkNmUzNDJkZDM3Y2NhMWNlNGY2MzYyOTQ1YTJhNWNlZWExOUpXTTgwaEVEb0FRYWZMWC9IcUd3NzJ5L280ZWVrRmVJZFBuUkg2WUx4U0dmM3dyUHNTN21WRHpVQ2l3TXppUFVJZzlLTVQrY3R3TTEvcFNYTlh3aHA3dzJlbU8xS3RZNStYaDFhelBFZ2xtcXNwOGphZlRnWkRjVUsyU3pZblh0Ni9IU3l1YkpwckdpLzFoZzA1UWl6dUVjSk5MOUUzZno0eHlodEZIbDg9','token':'8881763ad96a91baaff1569a0f6b910648afe3e9'},
+            'onUploadError' : function(file, errorCode, errorMsg, errorString) {
+                alert(file.name + ' could not be uploaded: ' + errorString);
+            },
+            'onUploadSuccess'   : function (file, data, response) {
+                 var return_file = eval('(' + data + ')');  
+                 if ( typeof return_file.file_name != 'undefined' )
+                 {
+                    $("#com_logo").html("<img style='height:70px;float:left;margin-right:10px;' src='https://www.itjuzi.com/images/"+ return_file.file_name+"'><input type='hidden' name='com_lice_archive' value='"+ return_file.file_name+"'>");
+                 } else {
+                    alert(return_file.error);
+                 }                               
+            }
+        });
+
+    });
+</script>
+			<!-- GA -->
+			<script>
+				function GACookie(c_name){
+					if(document.cookie.length>0){
+				  		c_start=document.cookie.indexOf(c_name + "=")
+						if(c_start!=-1){ 
+							c_start=c_start + c_name.length+1 
+							c_end=document.cookie.indexOf(";",c_start)
+							if(c_end==-1) c_end=document.cookie.length
+							return unescape(document.cookie.substring(c_start,c_end))
+						}
+					}
+					return "0";
+				}
+				var USER_ID=GACookie("identity");
+				(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+				ga('create', 'UA-59006131-1', 'auto');
+				ga('set', 'userId', USER_ID);
+				ga('set', 'dimension1', USER_ID);
+				ga('set', 'dimension2', $.cookie('paidtype'));
+				ga('send', 'pageview');
+			</script>
+			<div style="display:none">
+				<script>
+					var _hmt = _hmt || [];
+					(function() {
+						var hm = document.createElement("script");
+						hm.src = "//hm.baidu.com/hm.js?1c587ad486cdb6b962e94fc2002edf89";
+						var s = document.getElementsByTagName("script")[0];
+						s.parentNode.insertBefore(hm, s);
+					})();
+				</script>
+			</div>
+			<!-- GrowingIO -->
+			<script>
+				var _vds = _vds || [];(function(){ _vds.push(['setAccountId', 'eee5a46c52000d401f969f4535bdaa78']);(function() {var vds = document.createElement('script'); vds.type='text/javascript'; vds.async = true;vds.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'dn-growing.qbox.me/vds.js';var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(vds, s);})();})();
+			</script>
+		
+		<!-- 导航搜索-->
+		<script id="search-list-tmp" type="text/x-handlebars-template">
+		    <ul class="list-unstyled nav-search-list click-body-remove">
+		        {{#if empty}}
+		        <li style="color:#8a99a6;text-align:center;height:100px;line-height:40px;">
+		            <p>抱歉没有搜到</p >
+		            <p>╮（╯＿╰）╭</p >
+		        </li>
+		        {{else}}
+		        {{#if hasCompany}}
+		        <li class="group">公司</li>
+		        {{/if}}
+		        {{#each company}}
+		        <li data-id="{{com_id}}" data-name="{{com_name}}" data-type="company">
+		            <div class="img-box">
+		                {{#if com_logo_archive}}
+		                <img src="{{com_logo_archive}}" alt="logo加载失败">
+		                {{else}}
+		                <img src="https://cdn.itjuzi.com/assets/front/images/img/icon-invest.png" alt="logo加载失败">
+		                {{/if}}
+		            </div>
+		            <div class="info-box">
+		                <p title="{{com_name}}">{{com_name}}</p >
+		                <p title="{{cat_name}}{{#if sub_cat_name}}>{{sub_cat_name}}{{/if}}">{{cat_name}}{{#if sub_cat_name}}>{{sub_cat_name}}{{/if}}</p >
+		            </div>
+		        </li>
+		        {{/each}}
+		        {{#if hasIndustry}}
+		        <li class="group industry">机构</li>
+		        {{/if}}
+		        {{#each investfirm}}
+		        <li data-id="{{invst_id}}" data-name="{{invst_name}}" data-type="invst">
+		            <div class="img-box">
+		                {{#if invst_logo}}
+		                <img src="{{invst_logo}}" alt="logo加载失败">
+		                {{else}}
+		                <img src="https://cdn.itjuzi.com/assets/front/images/img/icon-invest.png" alt="logo加载失败">
+		                {{/if}}
+		            </div>
+		            <div class="info-box">
+		                <p title="{{invst_name}}">{{invst_name}}</p >
+		            </div>
+		        </li>
+		        {{/each}}
+		        {{/if}}
+		    </ul>
+		</script>
+		<!-- 搜索历史-->
+		<script id="history-list-tmp" type="text/x-handlebars-template">
+		    <ul class="list-unstyled history-list click-body-remove">
+		        <li class="group">搜索历史</li>
+		        {{#each history}}
+		        <li data-id="{{id}}" data-name="{{name}}" title="{{name}}" data-history="true">{{name}}</li>
+		        {{/each}}
+		    </ul>
+		</script>
+		<!-- 土豪请继续 充值雷达会员弹窗 -->
+		<div class="modal fade" id="radarVipModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+			<div class="modal-dialog" role="document">
+				<div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+						<h4 class="modal-title" id="myModalLabel">IT桔子会员服务</h4>
+					</div>
+					<div class="modal-body">
+						<div class="content-info">
+							<div class="info-left">
+								<p>免费会员</p>
+								<ul>
+									<li>APP&amp;PC 端基础数据有限查看</li>
+									<li>下载十家公司数据/行业报告</li>
+									<li>关注所在行业下公司所有动态</li>
+								</ul>
+							</div>
+							<div class="info-right">
+								<p>付费会员，低至<span> 1 </span>元/天</p>
+								<ul>
+									<li>APP&amp;PC 端不限查看所有公司、机构、事件多维度数据</li>
+									<li>每月可下载500家公司数据/行业报告，200个投资数据</li>
+									<li>跟踪任意行业动态，包括新公司成立、获投、新闻、工商变更</li>
+									<li>多角度对公司、机构、事件数据在线分析</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div class="modal-footer">
+						<a href="http://radar.itjuzi.com/order" class="to-vip">成为会员</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	
+
