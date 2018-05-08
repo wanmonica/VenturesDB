@@ -31,11 +31,12 @@
   "dependencies": {
     "cheerio": "0.22.0",
     "crawler": "^1.1.2",
+    "express": "^4.16.3",
     "glob-watcher": "^5.0.0",
     "gulp-cli": "^2.0.0",
     "jsdom": "^11.8.0",
     "neo4j": "1.1.1",
-    "neo4j-driver": "^1.5.3",
+    "neo4j-driver": "^1.6.0",
     "nightmare": "3.0.1",
     "undertaker": "^1.0.0",
     "vinyl-fs": "^3.0.0"
@@ -62,6 +63,7 @@
     "pipeline",
     "series",
     "parallel",
-    "streaming"
+    "streaming",
+    "api"
   ]
 }
