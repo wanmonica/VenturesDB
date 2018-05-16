@@ -1,5 +1,8 @@
 const express = require('express');
 const app = express();
+const path = require('path');
+const logger = require('morgan');
+const bodyParser = require('body-parser');
 
 const companyRoutes = require('./api/routes/companies');
 const productRoutes = require('./api/routes/products');
@@ -10,6 +13,13 @@ const provinceRoutes = require('./api/routes/provinces');
 const categoryRoutes = require('./api/routes/categories');
 
 //const neo4jRoutes = require('./api/neo4j-routes/neo4j-driver');
+
+app.set('views', path.join(__dirname, 'views'));
+app.set('view engine', 'ejs');
+
+app.use(logger('dev'));
+app.use(bodyParser.json());
+app.use(bodyParser.urlencoded({extended: false}));
 
 app.use('/companies', companyRoutes);
 app.use('/products', productRoutes);
